@@ -1,0 +1,14 @@
+C:\Документы\.GeekBrains\VS\C#\Itog_CW\bin\Debug\net7.0\Itog_CW.exe
+C:\Документы\.GeekBrains\VS\C#\Itog_CW\bin\Debug\net7.0\Itog_CW.deps.json
+C:\Документы\.GeekBrains\VS\C#\Itog_CW\bin\Debug\net7.0\Itog_CW.runtimeconfig.json
+C:\Документы\.GeekBrains\VS\C#\Itog_CW\bin\Debug\net7.0\Itog_CW.dll
+C:\Документы\.GeekBrains\VS\C#\Itog_CW\bin\Debug\net7.0\Itog_CW.pdb
+C:\Документы\.GeekBrains\VS\C#\Itog_CW\obj\Debug\net7.0\Itog_CW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Документы\.GeekBrains\VS\C#\Itog_CW\obj\Debug\net7.0\Itog_CW.AssemblyInfoInputs.cache
+C:\Документы\.GeekBrains\VS\C#\Itog_CW\obj\Debug\net7.0\Itog_CW.AssemblyInfo.cs
+C:\Документы\.GeekBrains\VS\C#\Itog_CW\obj\Debug\net7.0\Itog_CW.csproj.CoreCompileInputs.cache
+C:\Документы\.GeekBrains\VS\C#\Itog_CW\obj\Debug\net7.0\Itog_CW.dll
+C:\Документы\.GeekBrains\VS\C#\Itog_CW\obj\Debug\net7.0\refint\Itog_CW.dll
+C:\Документы\.GeekBrains\VS\C#\Itog_CW\obj\Debug\net7.0\Itog_CW.pdb
+C:\Документы\.GeekBrains\VS\C#\Itog_CW\obj\Debug\net7.0\Itog_CW.genruntimeconfig.cache
+C:\Документы\.GeekBrains\VS\C#\Itog_CW\obj\Debug\net7.0\ref\Itog_CW.dll
